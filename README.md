@@ -2,8 +2,8 @@
 
 
 ## Season 23-24
-* The calendar in `ics` format can be downloaded directly using this link:
-    `webcal://p148-caldav.icloud.com/published/2/MTA1ODk0OTMyMTYxMDU4OT0DHfnFOxUsvObufG5C926FHrL1EgMBNgujHeDwcG3XZg_-YalgmJUttOoXA_GhkVRK9RJCyM0gLsQxuMaWoD0`
+* The calendar in `ics` format can be downloaded directly using this link: [Link to ics calendar](webcal://p148-caldav.icloud.com/published/2/MTA1ODk0OTMyMTYxMDU4OT0DHfnFOxUsvObufG5C926FHrL1EgMBNgujHeDwcG3XZg_-YalgmJUttOoXA_GhkVRK9RJCyM0gLsQxuMaWoD0)
+
 * Or by going into this repository, in the folder named `23_24` and directly download the `ics` file from there.
 
 
