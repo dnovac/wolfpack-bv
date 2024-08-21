@@ -1,20 +1,28 @@
-# Beware, this is wolves territory
+# Beware, this is Wolves territory! 
+> If you are already subscribed to this Calendar, you should have all the latest updates, new seasons added automatically. In case not, please read the steps below.
 
+### Steps for using the Corona Brasov Hockey Calendar 
+*Repeat for each (season) file you want download*
 
-## Season 23-24
-* The calendar in `ics` format can be downloaded directly using this link: 
-* Copy paste the link below in your browser
-* `p148-caldav.icloud.com/published/2/MTA1ODk0OTMyMTYxMDU4OT0DHfnFOxUsvObufG5C926FHrL1EgMBNgujHeDwcG3XZg_-YalgmJUttOoXA_GhkVRK9RJCyM0gLsQxuMaWoD0`
+#### The calendar in `ics` format can be downloaded in many ways
+1. Copy & paste the link below in your browser - this will download the file to your device
+```
+p148-caldav.icloud.com/published/2/MTA1ODk0OTMyMTYxMDU4OT0DHfnFOxUsvObufG5C926FHrL1EgMBNgujHeDwcG3XZg_-YalgmJUttOoXA_GhkVRK9RJCyM0gLsQxuMaWoD0
+```
 
-* Or by going into this repository, in the folder named `23_24` and directly download the `ics` file from there.
+2. Alternatively, the calendar file in `ics` format can also be downloaded 
+- By going into this repository, in the folder named `23_24` (or the season you want) and directly download the `ics` file from there.
 
-* Using directly this link you can import it into the Calendar on iOS or MacOS.
-  * `webcal://p148-caldav.icloud.com/published/2/MTA1ODk0OTMyMTYxMDU4OT0DHfnFOxUsvObufG5C926FHrL1EgMBNgujHeDwcG3XZg_-YalgmJUttOoXA_GhkVRK9RJCyM0gLsQxuMaWoD0`
+#### For iOS and MacOS and iPadOS devices you can access the link below
+- Using directly this link you can import it into the Calendar app by clicking on the `Open Calendar`
+```
+webcal://p148-caldav.icloud.com/published/2/MTA1ODk0OTMyMTYxMDU4OT0DHfnFOxUsvObufG5C926FHrL1EgMBNgujHeDwcG3XZg_-YalgmJUttOoXA_GhkVRK9RJCyM0gLsQxuMaWoD0
+```
 
-## How to
+## How to import the file in the Calendar app
+*These steps could work differently on different devices, so please use Google as well, if you find any difficulties.*
 
-*These steps could work differently on different devices, so please use Google as well.*
-### Import in Apple Calendar
+### Import to Apple Calendar
 To add an ICS file to your iPhone calendar, you can follow these steps:
 
 1. Open the email with the ICS file attachment on your iPhone.
@@ -33,7 +41,7 @@ To add an ICS file to your iPhone calendar, you can follow these steps:
 
 It’s important to note that some ICS files may not be compatible with the iPhone calendar app, so if you experience any issues, you may need to try a different calendar app or contact the event organizer for assistance.
 
-### Import in Google Calendar
+### Import to Google Calendar
 1. Open Google Calendar.
 2. In the top right, click Settings Settings.
 3. Click Import & Export.
